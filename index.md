@@ -9,4 +9,4 @@ Algorithms, Randomized algorithms, Graph theory
 
 
 ## Socials
-[![linkdin](/assets/images/linkdin.png](https://www.linkedin.com/in/sinaroohipour/)
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
