@@ -10,3 +10,5 @@ Algorithms, Randomized algorithms, Graph theory
 
 ## Socials
 [![linkdin](https://raw.githubusercontent.com/sinaroohipour/sinaroohipour.github.io/main/assets/images/linkdin.png)](https://www.linkedin.com/in/sinaroohipour/)
+[![github](https://raw.githubusercontent.com/sinaroohipour/sinaroohipour.github.io/main/assets/images/github.png)](https://github.com/sinaroohipour)
+[![email](https://raw.githubusercontent.com/sinaroohipour/sinaroohipour.github.io/main/assets/images/email.png)](https://mailto:roohipour.sina@gmail.com)
