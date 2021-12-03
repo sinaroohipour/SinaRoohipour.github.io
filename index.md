@@ -6,3 +6,7 @@ Let's go and see what happens next...
 
 ## Research interests
 Algorithms, Randomized algorithms, Graph theory
+
+
+## Socials
+[linkdin](https://www.linkedin.com/in/sinaroohipour/)
