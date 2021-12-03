@@ -9,5 +9,4 @@ Algorithms, Randomized algorithms, Graph theory
 
 
 ## Socials
-![linkdin](/assets/images/linkdin.png)
-[Google](https://www.google.com/)
+[![linkdin](/assets/images/linkdin.png](https://www.linkedin.com/in/sinaroohipour/)
